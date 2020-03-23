@@ -3,6 +3,7 @@
 	"author":"Elyas Ahmed",
 	"description": "A project that does something awesome", 
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"version": "1.2.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
